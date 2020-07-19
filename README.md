@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I'm .NET full-stack Developer since 2013.
+
 My main goal is to get better in all of the Microsoft Technologies and to improve my Communication skills and languages knowledge.
+
 You can check my website for more information https://tanyoivanov.net 
 
 - 🔭 I’m currently working on a Dating Website
