@@ -11,6 +11,6 @@ You can check my website for more information https://tanyoivanov.net
 - 👯 I’m looking to collaborate on .NET Core project
 - 🤔 I’m looking for help with learning English Language and grammar
 - 💬 Ask me about ASP.NET MVC
-- 📫 How to reach me: tivanov@takerman.net or https://tivanov.net
+- 📫 How to reach me: tivanov@takerman.net or https://tanyoivanov.net
 - 😄 Pronouns: takerman
 - ⚡ Fun fact: I'm still drawing 3D models sometimes
