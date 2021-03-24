@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm .NET full-stack Developer since 2013.
+I'm .NET full-stack Developer since 2012.
 
 My main goal is to get better in all of the Microsoft Technologies and to improve my Communication skills and languages knowledge.
 
