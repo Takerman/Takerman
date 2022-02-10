@@ -11,4 +11,4 @@ You can check my website for more information https://tanyoivanov.net
 - 💬 Ask me about ASP.NET MVC!
 - 📫 How to reach me: tivanov@takerman.net or https://tanyoivanov.net
 - 😄 Pronouns: takerman
-- ⚡ Fun fact: I'm starting to paint again soon
+- ⚡ Fun fact: Most of the time at home I am wearing half sleve of the leg
