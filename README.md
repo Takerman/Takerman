@@ -1,32 +1,21 @@
 # Hi there, I'm Takerman 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Takerman?label=Follow&style=social)](https://github.com/Takerman)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Takerman?style=social)](https://twitter.com/Takerman)
 
 ## About Me
 
-- 🔭 I’m currently working on **[Your Project](https://github.com/YourProject)**
-- 🌱 I’m currently learning **[Technology/Skill](https://linktolearningresource)**
-- 👯 I’m looking to collaborate on **[Project/Tech](https://github.com/YourProject)**
-- 🤔 I’m looking for help with **[Issue/Tech](https://github.com/YourProject/issues)**
-- 💬 Ask me about **[Tech/Topic]**
-- 📫 How to reach me: **[Email](mailto:your-email@example.com)**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[Interesting Fact About You]**
+- 🔭 I’m currently working on **[portfolio](https://github.com/Takerman/app-portfolio)**
+- 🌱 I’m currently learning **[Electronics/3DPrinting](https://www.udemy.com/course/3d-rundown/?couponCode=ST21MT121624)**
+- 👯 I’m looking to collaborate on **[AI/Models](https://github.com/Takerman/app-ai-playground)**
+- 💬 Ask me about **[ASP.NET/SPA]**
+- 📫 How to reach me: **[Email](mailto:tivanov@takerman.net)**
+- ⚡ Fun fact: **[Nothing funny about me]**!
 
 ## Skills
 
-- **Languages:** `Python`, `JavaScript`, `Java`, `C++`
-- **Frameworks:** `React`, `Django`, `Spring`
-- **Tools:** `Git`, `Docker`, `Kubernetes`
-
-## Projects
-
-### [Project Name](https://github.com/YourProject)
-Description of the project.
-
-### [Another Project](https://github.com/AnotherProject)
-Description of the project.
+- **Languages:** `C#`, `JavaScript`, `SQL`, `PHP`, `Shell`, `YAML`, `Terraform`
+- **Frameworks:** `dotnet`, `mono`, `angular`
+- **Tools:** `Git`, `Docker`, `GHubActions`
 
 ## GitHub Stats
 
@@ -34,6 +23,5 @@ Description of the project.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/Takerman)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/tanyo-ivanov/)
+- [Personal Website](https://tanyoivanov.net)
