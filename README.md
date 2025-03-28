@@ -21,6 +21,13 @@
 
 ![Takerman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takerman&show_icons=true&theme=dark)
 
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tivanov-at&theme=nord_dark" />
+  <br/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tivanov-at&theme=nord_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tivanov-at&theme=nord_dark" />
+</div>
+
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/tanyo-ivanov/)
