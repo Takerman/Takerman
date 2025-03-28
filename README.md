@@ -19,13 +19,12 @@
 
 ## GitHub Stats
 
-![Takerman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takerman&show_icons=true&theme=dark&align=center)
-
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tivanov-at&theme=nord_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Takerman&show_icons=true&theme=nord_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takerman&theme=nord_dark" />
   <br/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tivanov-at&theme=nord_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tivanov-at&theme=nord_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takerman&theme=nord_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takerman&theme=nord_dark" />
 </div>
 
 ## Connect with Me
