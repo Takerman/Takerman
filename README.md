@@ -20,10 +20,12 @@
 ## GitHub Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Takerman&show_icons=true&theme=nord_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Takerman&show_icons=true&theme=dark" />
+  <br/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takerman&theme=nord_dark" />
   <br/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takerman&theme=nord_dark" />
+  <br/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takerman&theme=nord_dark" />
 </div>
 
