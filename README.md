@@ -19,7 +19,9 @@
 
 ## GitHub Stats
 
+<div align="center">
 ![Takerman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takerman&show_icons=true&theme=dark)
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tivanov-at&theme=nord_dark" />
