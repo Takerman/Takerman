@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on **[portfolio](https://github.com/Takerman/app-portfolio)**
 - 🌱 I’m currently learning **[Electronics/3DPrinting](https://www.udemy.com/course/3d-rundown/?couponCode=ST21MT121624)**
-- 👯 I’m looking to collaborate on **[AI/Models](https://github.com/Takerman/app-ai-playground)**
 - 💬 Ask me about **[ASP.NET/SPA]**
 - 📫 How to reach me: **[Email](mailto:tivanov@takerman.net)**
 - ⚡ Fun fact: **[Nothing funny about me]**!
